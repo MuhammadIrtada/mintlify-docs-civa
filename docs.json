@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Verse AI",
+  "name": "Civa Vault",
   "colors": {
     "primary": "#466ee9",
     "light": "#4c79c2",
     "dark": "#82c6fa"
   },
-  "favicon": "/logo/VERSE AI 3D 2.png",
+  "favicon": "/logo/Logo.png",
   "navigation": {
     "tabs": [
       {
@@ -22,7 +22,7 @@
             ]
           },
           {
-            "group": "Verse AI Ecosystem",
+            "group": "Civa Vault Ecosystem",
             "pages": [
               "howitworks",
               "features",
@@ -30,7 +30,7 @@
             ]
           },
           {
-            "group": "$VERSE Tokenomics",
+            "group": "$CIVA Tokenomics",
             "pages": [
               "tokendetails",
               "tokendistribution",
@@ -55,16 +55,16 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Verse AI Platform",
-          "href": "https://verseai.app/",
+          "anchor": "Civa Vault Platform",
+          "href": "https://civavault.app/",
           "icon": "globe"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/VERSE AI 3D 2.png",
-    "dark": "/logo/VERSE AI 3D 2.png"
+    "light": "/logo/Logo.png",
+    "dark": "/logo/Logo.png"
   },
   "navbar": {
     "links": [
@@ -81,9 +81,9 @@
   },
   "footer": {
     "socials": {
-      "website": "https://verseai.app/",
-      "x": "https://x.com/verseaiofficial/",
-      "telegram": "https://t.me/VerseAIETH"
+      "website": "https://civavault.app/",
+      "x": "https://x.com/civavault_/",
+      "telegram": "https://t.me/Civavault"
     }
   }
 }
