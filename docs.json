@@ -1,0 +1,89 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Verse AI",
+  "colors": {
+    "primary": "#466ee9",
+    "light": "#4c79c2",
+    "dark": "#82c6fa"
+  },
+  "favicon": "/logo/VERSE AI 3D 2.png",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Introduction",
+            "pages": [
+              "index",
+              "invest",
+              "security"
+            ]
+          },
+          {
+            "group": "Verse AI Ecosystem",
+            "pages": [
+              "howitworks",
+              "features",
+              "pricing"
+            ]
+          },
+          {
+            "group": "$VERSE Tokenomics",
+            "pages": [
+              "tokendetails",
+              "tokendistribution",
+              "tokenutility"
+            ]
+          },
+          {
+            "group": "Roadmap",
+            "pages": [
+              "roadmap"
+            ]
+          },
+          {
+            "group": "Get Started",
+            "pages": [
+              "community"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Verse AI Platform",
+          "href": "https://verseai.app/",
+          "icon": "globe"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/logo/VERSE AI 3D 2.png",
+    "dark": "/logo/VERSE AI 3D 2.png"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hi@mintlify.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://dashboard.mintlify.com"
+    }
+  },
+  "footer": {
+    "socials": {
+      "website": "https://verseai.app/",
+      "x": "https://x.com/verseaiofficial/",
+      "telegram": "https://t.me/VerseAIETH"
+    }
+  }
+}
